@@ -78,7 +78,7 @@ body {
   position: relative;
 }
 .testimonial--quote::after {
-  content: url(/images/bg-pattern-quotation.svg);
+  content: url(../images/bg-pattern-quotation.svg);
   top: 0;
   right: 25px;
   position: absolute;
